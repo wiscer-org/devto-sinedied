@@ -7,8 +7,10 @@ cover_image: ./assets/cat.jpg
 canonical_url: null
 ---
 
+
 Some random text with a [link](https://code.visualstudio.com).
 
+Add text to test impact from the `devto-git` action.
 ## Serious title
 
 Add some text here and there!
