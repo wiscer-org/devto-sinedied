@@ -11,6 +11,8 @@ canonical_url: null
 Some random text with a [link](https://code.visualstudio.com).
 
 Add text to test impact from the `devto-git` action.
+
+Add more text to test impact on `publish-devto` (github action).
 ## Serious title
 
 Add some text here and there!
