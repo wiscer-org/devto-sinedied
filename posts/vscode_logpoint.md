@@ -2,7 +2,7 @@
 title: How to Use VSCode Logpoint with Keyboard Shortcuts
 published: true
 description: How to use VSCode logpoint feature with only using keyboard.
-tags: 'vscode, logpoint, javascript 
+tags: 'vscode, logpoint, javascript' 
 canonical_url: null
 ---
 
