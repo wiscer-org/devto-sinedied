@@ -1,9 +1,10 @@
 ---
-title : VSCode - How to Jumps between Points in a File
-tags : vscode, withscreenreader
-published : true
-description : Tips to jump between multiple points in Visual Studio Code (VSCode).
+title: VSCode - How to Jumps between Points in a File
+tags: 'vscode, withscreenreader'
+published: true
+description: Tips to jump between multiple points in Visual Studio Code (VSCode).
 id: 1183087
+date: '2022-09-19T08:46:24Z'
 ---
 
 <p>This article contains tips to jumps between points (combination of line & column number) in a single file
