@@ -6,7 +6,6 @@ tags: 'vscode, logpoint, javascript'
 canonical_url: null
 ---
 
-# How to Use VSCode Logpoint with Keyboard Shortcuts
 
 ## Introduction
 This article demonstrates how to efficiently utilize VSCode Logpoints using only keyboard shortcuts. This method is particularly beneficial for users who rely on screen readers or prefer keyboard-centric workflows.
