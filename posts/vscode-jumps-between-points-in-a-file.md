@@ -1,5 +1,5 @@
 ---
-title: VSCode - How to Jumps between Points in a File
+title: VSCode - How to Jump between Points in a File
 tags: 'vscode, withscreenreader'
 published: true
 description: Tips to jump between multiple points in Visual Studio Code (VSCode).
@@ -7,7 +7,7 @@ id: 1183087
 date: '2022-09-19T08:46:24Z'
 ---
 
-<p>This article contains tips to jumps between points (combination of line & column number) in a single file
+<p>This article contains tips to jump between points (combination of line & column number) in a single file
 in VSCode for screen reader users (blind, visually impaired, etc).
 </p>
 
@@ -16,7 +16,7 @@ in VSCode for screen reader users (blind, visually impaired, etc).
 
 ## Background
 
-<p>I often face situation where I have to jumps from 1 point to another line back and forth in a single file.
+<p>I often face situation where I have to jump from 1 point to another line back and forth in a single file.
 It is a bit challenging for me since now I am a screen reader user. 
 </p>
 
@@ -127,7 +127,7 @@ Any changes we make to file `xxx` in any editor group will instantly reflected i
 Pressing `Ctrl` + `2` will open empty editor group 2, `Ctrl` + `3` will open empty editor group 3, and so on.
 </p>
 
-<p>Below are the steps to jumps between <code>work point</code> and <code>lookup point</code> back and forth :
+<p>Below are the steps to jump between <code>work point</code> and <code>lookup point</code> back and forth :
 </p>
 
 1. Press `Ctrl` + `\` to open new editor group with the exact files currently being opened. The cursor will also at the same point (<code>work point</code>), but editor group 2 is active now.
