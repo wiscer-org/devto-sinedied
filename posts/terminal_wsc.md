@@ -5,6 +5,8 @@ description: Tips on how to use  terminal application such as Powershell with NV
 tags: 'terminal, powershell, nvda, screenreader'
 cover_image: null
 canonical_url: null
+id: 1915219
+date: '2024-07-08T04:53:25Z'
 ---
 When I first started using a screen reader, one of the biggest challenges I faced was operating terminal applications like Powershell. It took me quite some time to become comfortable navigating and using these terminal apps.
 
