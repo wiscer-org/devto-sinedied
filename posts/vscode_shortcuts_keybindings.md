@@ -8,20 +8,16 @@ In this article, I’ll be sharing a selection of VSCode shortcuts and keybindin
 particularly useful as a screen reader (non-visual) developer. 
 
 While memorizing every keybinding available in VSCode can
-be overwhelming, focusing on a core set of shortcuts can greatly enhance efficiency and ease of use.
-To make this guide practical, I’ve highlighted keybindings that are most likely to be beneficial for screen reader
-users. The list below will have marks on shortcuts which I think essential. 
+be overwhelming, focusing on a core set of shortcuts can greatly enhance efficiency and ease of use. To make this guide practical, I’ve highlighted keybindings that are most likely to be beneficial for screen reader users. The list below will have marks on shortcuts which I think essential. 
 
-The default
-keybindings are sourced from the official VSCode documentation as of September 3, 2024. I hope this resource will help
-you streamline your workflow by focusing on the most useful and frequently used shortcuts.
+The default keybindings are sourced from the official VSCode documentation as of September 3, 2024. I hope this resource will help you streamline your workflow by focusing on the most useful and frequently used shortcuts.
 
-> NOTE: The essential shortcuts will started by a star symbol
+> NOTE: The essential shortcuts will ended by 👍
 
 <h2>General</h2>
 <dl>
-    <dt class="s">Ctrl+Shift+P,</dt>
-    <dd>F1 Show Command Palette</dd>
+    <dt class="s">Ctrl+Shift+P, F1 </dt>
+    <dd>Show Command Palette</dd>
     <dt class="s">Ctrl+P</dt>
     <dd>Quick Open, Go to File…</dd>
     <dt>Ctrl+Shift+N</dt>
@@ -316,6 +312,9 @@ Other operating systems’ keyboard shortcuts and additional unassigned shortcut
     dt.s{
         color: #000;
         font-weight: 700;
+    }
+    dt.s::after{
+        content:' 👍';
     }
     blockquote{
         background-color: #eee;
