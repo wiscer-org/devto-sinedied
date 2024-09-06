@@ -3,6 +3,8 @@ title: VSCode shortcuts / keybinding for Non Visual Users
 tags: 'vscode, keybindings, withscreenreader'
 published: true
 description: List of benefial and most used VSCode standard keybindings for non visual users.
+id: 1989183
+date: '2024-09-06T11:27:27Z'
 ---
 In this article, I’ll be sharing a selection of VSCode shortcuts and keybindings that I frequently use and find
 particularly useful as a screen reader (non-visual) developer. 
