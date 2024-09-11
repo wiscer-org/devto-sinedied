@@ -262,9 +262,9 @@ The default keybindings are sourced from the official VSCode documentation as of
     <dd>Show Output panel</dd>
     <dt class="s">Ctrl+Shift+V</dt>
     <dd>Open Markdown preview</dd>
-    <dt>Ctrl+K V<dt>
+    <dt>Ctrl+K V</dt>
     <dd>Open Markdown preview to the side</dd>
-    <dt>Ctrl+K Z<dt>
+    <dt>Ctrl+K Z</dt>
     <dd>Zen Mode (Esc Esc to exit)</dd>
 </dl>
 
@@ -286,7 +286,7 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>Integrated terminal</h2>
 <dl>
-    <dt class="s">Ctrl+`</dt>
+    <dt class="s">Ctrl+\`</dt>
     <dd>Show integrated terminal</dd>
     <dt class="s">Ctrl+Shift+`</dt>
     <dd>Create new terminal</dd>
