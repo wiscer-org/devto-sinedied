@@ -270,23 +270,24 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>Debug</h2>
 <dl>
-    <dt class="s">F9</dt>
-    <dd>Toggle breakpoint</dd>
-    <dt class="s">F5</dt>
-    <dd>Start/Continue</dd>
-    <dt class="s">Shift+F5</dt>
-    <dd>Stop</dd>
-    <dt>F11 / Shift+F11<dt>
-    <dd>Step into/out</dd>
-    <dt>F10</dt>
-    <dd>Step over</dd>
-    <dt>Ctrl+K Ctrl+I</dt>
-    <dd>Show hover</dd>
+<dt class="s">F9</dt>
+<dd>Toggle breakpoint</dd>
+<dt class="s">F5</dt>
+<dd>Start/Continue</dd>
+<dt class="s">Shift+F5</dt>
+<dd>Stop</dd>
+<dt>F11 / Shift+F11<dt>
+<dd>Step into/out</dd>
+<dt>F10</dt>
+<dd>Step over</dd>
+<dt>Ctrl+K Ctrl+I</dt>
+<dd>Show hover</dd>
 <dl>
 
 <h2>Integrated terminal</h2>
 <dl>
-    <dt class="s">Ctrl+\`</dt>
+    <!-- &#96; equal to ` -->
+    <dt class="s">Ctrl+&#96;</dt>
     <dd>Show integrated terminal</dd>
     <dt class="s">Ctrl+Shift+`</dt>
     <dd>Create new terminal</dd>
@@ -300,6 +301,8 @@ The default keybindings are sourced from the official VSCode documentation as of
     <dd>Scroll page up/down</dd>
     <dt class="s">Ctrl+ Home/End<dt>
     <dd>Scroll to top/bottom</dd>
+</dl>
+
 
 Other operating systems’ keyboard shortcuts and additional unassigned shortcuts available at [aka.ms/vscodekeybindings](aka.ms/vscodekeybindings)
 
