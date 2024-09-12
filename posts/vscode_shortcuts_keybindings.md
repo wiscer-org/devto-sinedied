@@ -18,15 +18,15 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>General</h2>
 <dl>
-    <dt class="s">Ctrl+Shift+P, F1 </dt>
+    <dt class="s">Ctrl+Shift+P, F1<span> 👍</span><span> 👍</span></dt>
     <dd>Show Command Palette</dd>
-    <dt class="s">Ctrl+P</dt>
+    <dt class="s">Ctrl+P<span> 👍</span></dt>
     <dd>Quick Open, Go to File…</dd>
     <dt>Ctrl+Shift+N</dt>
     <dd>New window/instance</dd>
-    <dt class="s">Ctrl+Shift+W</dt>
+    <dt class="s">Ctrl+Shift+W<span> 👍</span></dt>
     <dd>Close window/instance</dd>
-    <dt class="s">Ctrl+,</dt>
+    <dt class="s">Ctrl+,<span> 👍</span></dt>
     <dd>User Settings</dd>
     <dt class="s">Ctrl+K Ctrl+S
     <dd>Keyboard Shortcuts</dd>
@@ -34,29 +34,29 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>Basic editing</h2>
 <dl>
-    <dt class="s">Ctrl+X</dt>
+    <dt class="s">Ctrl+X<span> 👍</span></dt>
     <dd>Cut line (empty selection)</dd>
-    <dt class="s">Ctrl+C</dt>
+    <dt class="s">Ctrl+C<span> 👍</span></dt>
     <dd>Copy line (empty selection)</dd>
     <dt class="s">Alt+ ↑/↓<dt>
     <dd>Move line up/down</dd>
     <dt class="s">Shift+Alt+ ↑/↓<dt>
     <dd>Copy line up/down</dd>
-    <dt class="s">Ctrl+Shift+K</dt>
+    <dt class="s">Ctrl+Shift+K<span> 👍</span></dt>
     <dd>Delete line</dd>
-    <dt class="s">Ctrl+Enter</dt>
+    <dt class="s">Ctrl+Enter<span> 👍</span></dt>
     <dd>Insert line below</dd>
-    <dt class="s">Ctrl+Shift+Enter</dt>
+    <dt class="s">Ctrl+Shift+Enter<span> 👍</span></dt>
     <dd>Insert line above</dd>
-    <dt class="s">Ctrl+Shift+\</dt>
+    <dt class="s">Ctrl+Shift+\<span> 👍</span></dt>
     <dd>Jump to matching bracket</dd>
     <dt>Ctrl+ ]/[</dt>
     <dd>Indent/outdent line. This is useful when I want to make sure there is no whitespaces at start.</dd>
-    <dt class="s">Home/End</dt>
+    <dt class="s">Home/End<span> 👍</span></dt>
     <dd>Go to beginning / end of line</dd>
-    <dt class="s">Ctrl+Home</dt>
+    <dt class="s">Ctrl+Home<span> 👍</span></dt>
     <dd>Go to beginning of file</dd>
-    <dt class="s">Ctrl+End</dt>
+    <dt class="s">Ctrl+End<span> 👍</span></dt>
     <dd>Go to end of file</dd>
     <dt>Ctrl+ ↑/↓ </dt>
     <dd>Scroll line up/down</dd>
@@ -78,11 +78,11 @@ The default keybindings are sourced from the official VSCode documentation as of
 <dd>Add line comment</dd>
     <dt>Ctrl+K Ctrl+U</dt>
 <dd>Remove line comment</dd>
-    <dt class="s">Ctrl+/</dt>
+    <dt class="s">Ctrl+/<span> 👍</span></dt>
     <dd>Toggle line comment</dd>
-    <dt class="s">Shift+Alt+A</dt>
+    <dt class="s">Shift+Alt+A<span> 👍</span></dt>
     <dd>Toggle block comment</dd>
-    <dt class="s">Alt+Z</dt>
+    <dt class="s">Alt+Z<span> 👍</span></dt>
     <dd>Toggle word wrap</dd>
 </dl>
 
@@ -90,31 +90,31 @@ The default keybindings are sourced from the official VSCode documentation as of
 <dl>
     <dt>Ctrl+T</dt>
     <dd>Show all Symbols</dd>
-    <dt class="s">Ctrl+G</dt>
+    <dt class="s">Ctrl+G<span> 👍</span></dt>
     <dd>Go to Line...</dd>
-    <dt class="s">Ctrl+P</dt>
+    <dt class="s">Ctrl+P<span> 👍</span></dt>
     <dd>Go to File...</dd>
-    <dt class="s">Ctrl+Shift+O</dt>
+    <dt class="s">Ctrl+Shift+O<span> 👍</span></dt>
     <dd>Go to Symbol...</dd>
-    <dt class="s">Ctrl+Shift+M</dt>
+    <dt class="s">Ctrl+Shift+M<span> 👍</span></dt>
     <dd>Show Problems panel</dd>
-    <dt class="s">F8</dt>
+    <dt class="s">F8<span> 👍</span></dt>
     <dd>Go to next error or warning</dd>
-    <dt class="s">Shift+F8</dt>
+    <dt class="s">Shift+F8<span> 👍</span></dt>
     <dd>Go to previous error or warning</dd>
-    <dt class="s">Ctrl+Shift+Tab</dt>
+    <dt class="s">Ctrl+Shift+Tab<span> 👍</span></dt>
     <dd>Navigate editor group history</dd>
     <dt class="s">Alt+ ←/→<dt>
     <dd>Go back / forward</dd>
-    <dt class="s">Ctrl+M</dt>
+    <dt class="s">Ctrl+M<span> 👍</span></dt>
     <dd>Toggle Tab moves focus</dd>
 </dl>
 
 <h2>Search and replace</h2>
 <dl>
-    <dt class="s">Ctrl+F</dt>
+    <dt class="s">Ctrl+F<span> 👍</span></dt>
     <dd>Find</dd>
-    <dt class="s">Ctrl+H</dt>
+    <dt class="s">Ctrl+H<span> 👍</span></dt>
     <dd>Replace</dd>
     <dt>F3 / Shift+F3<dt>
     <dd>Find next/previous</dd>
@@ -136,13 +136,13 @@ The default keybindings are sourced from the official VSCode documentation as of
     <dd>Insert cursor above / below</dd>
     <dt>Ctrl+U</dt>
     <dd>Undo last cursor operation</dd>
-    <dt class="s">Shift+Alt+I</dt>
+    <dt class="s">Shift+Alt+I<span> 👍</span></dt>
     <dd>Insert cursor at end of each line selected</dd>
-    <dt class="s">Ctrl+L</dt>
+    <dt class="s">Ctrl+L<span> 👍</span></dt>
     <dd>Select current line</dd>
     <dt>Ctrl+Shift+L</dt>
     <dd>Select all occurrences of current selection</dd>
-    <dt class="s">Ctrl+F2</dt>
+    <dt class="s">Ctrl+F2<span> 👍</span></dt>
     <dd>Select all occurrences of current word</dd>
     <dt>Shift+Alt+→</dt>
     <dd>Expand selection</dd>
@@ -158,27 +158,27 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>Rich languages editing</h2>
 <dl>
-    <dt class="s">Ctrl+Space, Ctrl+I</dt>
+    <dt class="s">Ctrl+Space, Ctrl+I<span> 👍</span></dt>
     <dd>Trigger suggestion</dd>
-    <dt class="s">Ctrl+Shift+Space</dt>
+    <dt class="s">Ctrl+Shift+Space<span> 👍</span></dt>
     <dd>Trigger parameter hints</dd>
-    <dt class="s">Shift+Alt+F</dt>
+    <dt class="s">Shift+Alt+F<span> 👍</span></dt>
     <dd>Format document</dd>
-    <dt class="s">Ctrl+K Ctrl+F</dt>
+    <dt class="s">Ctrl+K Ctrl+F<span> 👍</span></dt>
     <dd>Format selection</dd>
-    <dt class="s">F12</dt>
+    <dt class="s">F12<span> 👍</span></dt>
     <dd>Go to Definition</dd>
-    <dt class="s">Alt+F12</dt>
+    <dt class="s">Alt+F12<span> 👍</span></dt>
     <dd>Peek Definition</dd>
-    <dt class="s">Ctrl+K F12</dt>
+    <dt class="s">Ctrl+K F12<span> 👍</span></dt>
     <dd>Open Definition to the side</dd>
-    <dt class="s">Ctrl+.</dt>
+    <dt class="s">Ctrl+.<span> 👍</span></dt>
     <dd>Quick Fix</dd>
-    <dt class="s">Shift+F12</dt>
+    <dt class="s">Shift+F12<span> 👍</span></dt>
     <dd>Show References</dd>
-    <dt class="s">F2</dt>
+    <dt class="s">F2<span> 👍</span></dt>
     <dd>Rename Symbol</dd>
-    <dt class="s">Ctrl+K Ctrl+X</dt>
+    <dt class="s">Ctrl+K Ctrl+X<span> 👍</span></dt>
 <dd>Trim trailing whitespace</dd>
     <dt>Ctrl+K M</dt>
     <dd>Change file language</dd>
@@ -186,7 +186,7 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>Editor management</h2>
 <dl>
-    <dt class="s">Ctrl+F4, Ctrl+W</dt>
+    <dt class="s">Ctrl+F4, Ctrl+W<span> 👍</span></dt>
     <dd>Close editor</dd>
     <dt>Ctrl+K F</dt>
     <dd>Close folder</dd>
@@ -208,27 +208,27 @@ The default keybindings are sourced from the official VSCode documentation as of
     <dd>New File</dd>
     <dt>Ctrl+O</dt>
     <dd>Open File...</dd>
-    <dt class="s">Ctrl+S</dt>
+    <dt class="s">Ctrl+S<span> 👍</span></dt>
     <dd>Save</dd>
     <dt>Ctrl+Shift+S</dt>
     <dd>Save As...</dd>
     <dt>Ctrl+K S</dt>
     <dd>Save All</dd>
-    <dt class="s">Ctrl+F4</dt>
+    <dt class="s">Ctrl+F4<span> 👍</span></dt>
     <dd>Close</dd>
     <dt>Ctrl+K Ctrl+W</dt>
     <dd>Close All</dd>
-    <dt class="s">Ctrl+Shift+T</dt>
+    <dt class="s">Ctrl+Shift+T<span> 👍</span></dt>
     <dd>Reopen closed editor</dd>
-    <dt class="s">Ctrl+K</dt>
+    <dt class="s">Ctrl+K<span> 👍</span></dt>
     <dd>Enter Keep preview mode editor open</dd>
-    <dt class="s">Ctrl+Tab</dt>
+    <dt class="s">Ctrl+Tab<span> 👍</span></dt>
     <dd>Open next</dd>
-    <dt class="s">Ctrl+Shift+Tab</dt>
+    <dt class="s">Ctrl+Shift+Tab<span> 👍</span></dt>
     <dd>Open previous</dd>
-    <dt class="s">Ctrl+K P</dt>
+    <dt class="s">Ctrl+K P<span> 👍</span></dt>
     <dd>Copy path of active file</dd>
-    <dt class="s">Ctrl+K R</dt> 
+    <dt class="s">Ctrl+K R<span> 👍</span></dt> 
     <dd>Reveal active file in Explorer</dd>
     <dt>Ctrl+K O</dt>
     <dd>Show active file in new window/instance</dd>
@@ -244,23 +244,23 @@ The default keybindings are sourced from the official VSCode documentation as of
     <dd>Zoom in/out</dd>
     <dt>Ctrl+B</dt>
     <dd>Toggle Sidebar visibility</dd>
-    <dt class="s">Ctrl+Shift+E</dt>
+    <dt class="s">Ctrl+Shift+E<span> 👍</span></dt>
     <dd>Show Explorer / Toggle focus</dd>
-    <dt class="s">Ctrl+Shift+F</dt>
+    <dt class="s">Ctrl+Shift+F<span> 👍</span></dt>
     <dd>Show Search</dd>
-    <dt class="s">Ctrl+Shift+G</dt>
+    <dt class="s">Ctrl+Shift+G<span> 👍</span></dt>
     <dd>Show Source Control</dd>
-    <dt class="s">Ctrl+Shift+D</dt>
+    <dt class="s">Ctrl+Shift+D<span> 👍</span></dt>
     <dd>Show Debug</dd>
-    <dt class="s">Ctrl+Shift+X</dt>
+    <dt class="s">Ctrl+Shift+X<span> 👍</span></dt>
     <dd>Show Extensions</dd>
-    <dt class="s">Ctrl+Shift+H</dt>
+    <dt class="s">Ctrl+Shift+H<span> 👍</span></dt>
     <dd>Replace in files</dd>
     <dt>Ctrl+Shift+J</dt>
     <dd>Toggle Search details</dd>
     <dt>Ctrl+Shift+U</dt>
     <dd>Show Output panel</dd>
-    <dt class="s">Ctrl+Shift+V</dt>
+    <dt class="s">Ctrl+Shift+V<span> 👍</span></dt>
     <dd>Open Markdown preview</dd>
     <dt>Ctrl+K V</dt>
     <dd>Open Markdown preview to the side</dd>
@@ -270,11 +270,11 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>Debug</h2>
 <dl>
-<dt class="s">F9</dt>
+<dt class="s">F9<span> 👍</span></dt>
 <dd>Toggle breakpoint</dd>
-<dt class="s">F5</dt>
+<dt class="s">F5<span> 👍</span></dt>
 <dd>Start/Continue</dd>
-<dt class="s">Shift+F5</dt>
+<dt class="s">Shift+F5<span> 👍</span></dt>
 <dd>Stop</dd>
 <dt>F11 / Shift+F11<dt>
 <dd>Step into/out</dd>
@@ -286,17 +286,17 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>Integrated terminal</h2>
 <dl>
-    <dt class="s">Ctrl+&#96;</dt>
+    <dt class="s">Ctrl+&#96;<span> 👍</span></dt>
     <dd>Show integrated terminal</dd>
-    <dt class="s">Ctrl+Shift+`</dt>
+    <dt class="s">Ctrl+Shift+`<span> 👍</span></dt>
     <dd>Create new terminal</dd>
-    <dt class="s">Ctrl+C</dt>
+    <dt class="s">Ctrl+C<span> 👍</span></dt>
     <dd>Copy selection</dd>
-    <dt class="s">Ctrl+V</dt>
+    <dt class="s">Ctrl+V<span> 👍</span></dt>
     <dd>Paste into active terminal</dd>
-    <dt class="s">Ctrl+ ↑/↓ </dt>
+    <dt class="s">Ctrl+ ↑/↓ <span> 👍</span></dt>
     <dd>Scroll up/down</dd>
-    <dt class="s">Shift+ PgUp/PgDn</dt>
+    <dt class="s">Shift+ PgUp/PgDn<span> 👍</span></dt>
     <dd>Scroll page up/down</dd>
     <dt class="s">Ctrl+ Home/End<dt>
     <dd>Scroll to top/bottom</dd>
@@ -304,23 +304,3 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 
 Other operating systems’ keyboard shortcuts and additional unassigned shortcuts available at [aka.ms/vscodekeybindings](aka.ms/vscodekeybindings)
-
-<style>
-    body {
-        background: #fff;
-        color: #000;
-    }
-    dl {
-        color: #444;
-    }
-    dt.s{
-        color: #000;
-        font-weight: 700;
-    }
-    dt.s::after{
-        content:' 👍';
-    }
-    blockquote{
-        background-color: #eee;
-    }
-</style>
