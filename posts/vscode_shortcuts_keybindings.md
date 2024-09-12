@@ -18,7 +18,7 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>General</h2>
 <dl>
-    <dt class="s">Ctrl+Shift+P, F1<span> 👍</span><span> 👍</span></dt>
+    <dt class="s">Ctrl+Shift+P, F1<span> 👍</span></dt>
     <dd>Show Command Palette</dd>
     <dt class="s">Ctrl+P<span> 👍</span></dt>
     <dd>Quick Open, Go to File…</dd>
