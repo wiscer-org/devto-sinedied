@@ -286,7 +286,6 @@ The default keybindings are sourced from the official VSCode documentation as of
 
 <h2>Integrated terminal</h2>
 <dl>
-    <!-- &#96; equal to ` -->
     <dt class="s">Ctrl+&#96;</dt>
     <dd>Show integrated terminal</dd>
     <dt class="s">Ctrl+Shift+`</dt>
