@@ -43,7 +43,7 @@ To replicate the functionality of `breadcrumbs.focusAndSelect`, I have to:
 2. Use the left arrow to move focus to the original breadcrumbs.  
 3. Press the down arrow to select and display the code tree.  
 
-<!-- ![Windsurf Breadcrumbs](https://github.com/wiscer-org/devto-sinedied/blob/main/assets/images/windsurf-breadcrumbs.png) -->
+![Windsurf Breadcrumbs](https://github.com/wiscer-org/devto-sinedied/blob/main/assets/images/windsurf-breadcrumbs.png)
 
 Since I frequently use this functionality, automating these steps into a single keystroke would save a lot of hassle.  
 
