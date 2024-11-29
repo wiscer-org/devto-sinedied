@@ -19,7 +19,7 @@ I primarily use VSCode IDE because it is highly accessible for screen reader use
 **Shortcut**: `Ctrl` + `Shift` + `.`  
 Action: *Focus and Select Breadcrumbs* (`breadcrumbs.focusAndSelect`)  
 
-![VSCode Breadcrumbs](https://github.com/wiscer-org/devto-sinedied/blob/main/assets/images/vscode-breadcumbs.png)  
+![VSCode Breadcrumbs](https://github.com/wiscer-org/devto-sinedied/blob/main/assets/images/vscode-breadcums.png)  
 
 Breadcrumbs are located at the upper part of the text editor. I use this shortcut every 5–10 minutes because:  
 - It provides a quick snapshot of the code hierarchy, whether within a class or an HTML tree.  
