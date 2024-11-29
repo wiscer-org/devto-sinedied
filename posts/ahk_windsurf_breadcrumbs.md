@@ -4,8 +4,8 @@ published: true
 description: How to automate shortcuts / keystrokes. Example is on Windsurf IDE.
 tags: 'vscode, windsurf, shortcuts, breadcrumbs'
 canonical_url: null
-id: null
-date: ''
+id: 2126873
+date: '2024-11-29T12:40:25Z'
 ---
 
 # Using Keyboard Shortcuts to Enhance Productivity in Windsurf IDE  
