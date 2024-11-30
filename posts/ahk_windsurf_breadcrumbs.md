@@ -62,7 +62,8 @@ I mapped the sequence to `NumpadIns` followed by the right arrow, as they are co
 ### AutoHotkey Script  
 
 ```ahk
-; Map NumpadIns + Right Arrow to simulate breadcrumbs.focusAndSelect in Windsurf
+; Map NumpadIns + Right Arrow 
+; to simulate breadcrumbs.focusAndSelect in Windsurf
 NumpadIns & Right::
 Send ^+;  ; Send Ctrl+Shift+;
 Sleep 100  ; Pause for 100 milliseconds
