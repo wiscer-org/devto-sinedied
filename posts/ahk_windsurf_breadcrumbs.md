@@ -16,12 +16,16 @@ As a non-visual developer (screen reader user), I rely heavily on keyboard short
 
 I primarily use VSCode IDE because it is highly accessible for screen reader users. One of the shortcuts I use most frequently is **`Breadcrumbs Focus`**.  
 
-**Shortcut**: `Ctrl` + `Shift` + `.`  
-**Action**: *Focus and Select Breadcrumbs* (`breadcrumbs.focusAndSelect`)  
+<dl>
+  <dt>Shortcut</dt>
+  <dd><kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd></dd>
+  <dt>Description</dt>
+  <dd>Focus and select breadcrumbs</dd>
+  <dd><code>breadcrumbs.focusAndSelect</code></dd>
+</dl>
 
-<figure>
-  <img alt="Breadcrumbs in VSCode" aria-labelledby="figcaption-vscode-breadcrumbs" src="https://raw.githubusercontent.com/wiscer-org/devto-sinedied/refs/heads/main/assets/images/vscode-breadcrumbs.png" >
-  <figcaption id="figcaption-vscode-breadcrumbs">Screenshot of creadcrumbs in VSCode</figcaption>
+
+<figure><img alt="Breadcrumbs in VSCode" aria-labelledby="figcaption-vscode-breadcrumbs" src="https://raw.githubusercontent.com/wiscer-org/devto-sinedied/refs/heads/main/assets/images/vscode-breadcrumbs.png"><figcaption id="figcaption-vscode-breadcrumbs">Screenshot of creadcrumbs in VSCode</figcaption>
 </figure>
 
 Breadcrumbs are located at the upper part of the text editor. I use this shortcut every 5–10 minutes because:  
@@ -36,8 +40,13 @@ Windsurf IDE is an accessible, AI-powered IDE built on top of VSCode, inheriting
 
 In Windsurf, I discovered an alternative shortcut:  
 
-**Shortcut**: `Ctrl` + `Shift` + `;`  
-**Action**: *Focus on Breadcrumbs* (`breadcrumbs.focus`)  
+<dl>
+  <dt>Shortcut</dt>
+  <dd><kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>;</kbd></dd>
+  <dt>Description</dt>
+  <dd>Focus on breadcrumbs</dd>
+  <dd><code>breadcrumbs.focus</code></dd>
+</dl>
 
 However, in Windsurf, this shortcut does not automatically focus on the original breadcrumbs. Instead, it defaults to a new visual element on the right side of the breadcrumbs containing "Explain," "Refactor," and "Add Docstring" links.  
 
@@ -46,9 +55,7 @@ To replicate the functionality of `breadcrumbs.focusAndSelect`, I have to:
 2. Use the left arrow to move focus to the original breadcrumbs.  
 3. Press the down arrow to select and display the code tree.  
 
-<figure>
-  <img alt="Breadcrumbs in Windsurf" aria-labelledby="figcaption-windsurf-breadcrumbs" src="https://raw.githubusercontent.com/wiscer-org/devto-sinedied/refs/heads/main/assets/images/windsurf-breadcrumbs.png" >
-  <figcaption id="figcaption-windsurf-breadcrumbs">Screenshot of creadcrumbs in VSCode</figcaption>
+<figure><img alt="Breadcrumbs in Windsurf" aria-labelledby="figcaption-windsurf-breadcrumbs" src="https://raw.githubusercontent.com/wiscer-org/devto-sinedied/refs/heads/main/assets/images/windsurf-breadcrumbs.png" ><figcaption id="figcaption-windsurf-breadcrumbs">Screenshot of creadcrumbs in VSCode</figcaption>
 </figure>
 
 Since I frequently use this functionality, automating these steps into a single keystroke would save a lot of hassle.  
