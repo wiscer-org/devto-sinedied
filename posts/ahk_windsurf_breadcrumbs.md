@@ -93,3 +93,21 @@ Follow these steps to set up the shortcut:
 For a detailed guide, refer to the AutoHotkey Tutorial.
 
 This solution significantly simplifies navigating breadcrumbs in Windsurf IDE and enhances accessibility for screen reader users.
+
+
+## Update on Key Conflict 
+
+The assignment of NumPadIns in the AutoHotKey script conflicted with its role as the NVDA modifier key. As a result, when the script runs, NVDA can no longer respond to the NumPadIns key. This happens because AutoHotKey intercepts the NumPadIns key press, preventing NVDA from processing it.
+To resolve this issue, I replaced NumPadIns with the NumPadAdd key in the script. Here is the updated script
+
+```ahk
+; Map NumpadAdd + Right Arrow 
+; to simulate breadcrumbs.focusAndSelect in Windsurf
+NumpadAdd & Right::
+Send ^+;  ; Send Ctrl+Shift+;
+Sleep 100  ; Pause for 100 milliseconds
+Send {Left}  
+Sleep 100  
+Send {Down}  
+return
+```
