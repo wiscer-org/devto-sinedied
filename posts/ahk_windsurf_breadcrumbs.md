@@ -2,7 +2,7 @@
 title: Auto Hot Key to automate Keystrokes in Windsurf IDE
 published: true
 description: How to automate shortcuts / keystrokes. Example is on Windsurf IDE.
-tags: 'vscode, windsurf, shortcuts, breadcrumbs'
+tags: 'vscode, windsurf, breadcrumbs, screenreader'
 canonical_url: null
 id: 2126873
 date: '2024-11-29T12:40:25Z'
