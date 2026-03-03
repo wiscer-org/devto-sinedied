@@ -1,3 +1,13 @@
+---
+title: Screen Reader Experience Analysis on claude.ai
+published: true
+description: Screen reader experience manual analysis on claude.ai
+tags: 'PageLive, accessibility, screen reader, NVDA, Claude, AI'
+canonical_url: null
+id: 
+date: 
+---
+
 # Screen Reader Experience Analysis: claude.ai
 *3 March 2026*
 <br>
@@ -112,5 +122,7 @@ A user who cannot visually scan the chat list must rely on the title alone to id
 ---
 
 *This analysis was conducted as part of the PageLive project, which develops keyboard shortcut and screen reader support for AI chat interfaces. The author develops PageLive, a Chrome extension that addresses several of the barriers described in this report. A companion Screen Reader Experience Mitigation documents the approaches PageLive applies to each finding.*
+
+*PageLive can be installad for free on the [PageLive chrome webstore page](https://chromewebstore.google.com/detail/pagelive/kachdjbdcmofjmaoklcfofbcnlakfnbb).*
 
 *The findings, severity classifications, and testing observations in this report are the author's own, based on manual testing with NVDA on Chrome. AI assistance was used solely to shape the writing style of this document.*
