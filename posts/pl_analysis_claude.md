@@ -2,13 +2,12 @@
 title: Screen Reader Experience Analysis on claude.ai
 published: true
 description: Screen reader experience manual analysis on claude.ai
-tags: 'PageLive, accessibility, claude'
+tags: 'PageLive, a11y, claude, screen reader, accessibility, AI'
 canonical_url: null
 id: 3307934
 date: '2026-03-04T07:37:34Z'
 ---
 
-# Screen Reader Experience Analysis: claude.ai
 *3 March 2026*
 <br>
 **PageLive Project**
