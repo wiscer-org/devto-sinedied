@@ -4,8 +4,8 @@ published: true
 description: Screen reader experience manual analysis on claude.ai
 tags: 'PageLive, accessibility, claude'
 canonical_url: null
-id: null
-date: ''
+id: 3307934
+date: '2026-03-04T07:37:34Z'
 ---
 
 # Screen Reader Experience Analysis: claude.ai
