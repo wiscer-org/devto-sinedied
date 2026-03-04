@@ -2,8 +2,10 @@
 title: Screen Reader Experience Analysis on claude.ai
 published: true
 description: Screen reader experience manual analysis on claude.ai
-tags: 'PageLive, accessibility, screen reader, NVDA, Claude, AI'
+tags: 'PageLive, accessibility, claude'
 canonical_url: null
+id: null
+date: ''
 ---
 
 # Screen Reader Experience Analysis: claude.ai
