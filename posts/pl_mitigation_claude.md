@@ -4,7 +4,8 @@ published: true
 description: How PageLive addresses screen reader barriers on claude.ai
 tags: PageLive, a11y, claude, screenreader, accessibility
 canonical_url: null
-date: '2026-03-04T07:37:34Z'
+id: null
+date: ''
 ---
 
 *3 March 2026* — **PageLive Project**
