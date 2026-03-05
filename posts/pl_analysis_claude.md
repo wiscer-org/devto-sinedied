@@ -2,7 +2,7 @@
 title: Screen Reader Experience Analysis on claude.ai
 published: true
 description: Screen reader experience manual analysis on claude.ai
-tags: 'PageLive, a11y, claude, screenreader, accessibility'
+tags: PageLive, a11y, claude, screenreader, accessibility
 canonical_url: null
 id: 3307934
 date: '2026-03-04T07:37:34Z'
@@ -99,6 +99,10 @@ A user who cannot visually scan the chat list must rely on the title alone to id
 | 2.4 | Sidebar lacks landmarks for chat list navigation | Barrier |
 | 2.5 | Missing keyboard shortcuts for common actions | Friction |
 | 2.6 | Chat list items lack metadata | Friction |
+
+## 4. Further Reading
+
+This article is part of the PageLive project's documentation for claude.ai. A companion article, [Screen Reader Experience Mitigation on claude.ai](https://dev.to/wiscer/screen-reader-experience-mitigation-on-claudeai-4khl), describes how PageLive addresses the barriers identified above. For a full list of keyboard shortcuts and features PageLive provides for claude.ai, see the [PageLive for Claude documentation](https://wiscer.org/pagelive/claude).
 
 ---
 
