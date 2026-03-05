@@ -2,10 +2,10 @@
 title: Screen Reader Experience Mitigation on claude.ai
 published: true
 description: How PageLive addresses screen reader barriers on claude.ai
-tags: PageLive, a11y, claude, screenreader, accessibility
+tags: 'PageLive, a11y, claude, screenreader, accessibility'
 canonical_url: null
-id: null
-date: ''
+id: 3312217
+date: '2026-03-05T13:03:30Z'
 ---
 
 *3 March 2026* — **PageLive Project**
