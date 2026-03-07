@@ -2,10 +2,10 @@
 title: Screen Reader Experience Mitigation on Grok
 published: true
 description: How PageLive addresses screen reader barriers on Grok
-tags: PageLive, a11y, grok, screenreader, accessibility
+tags: 'PageLive, a11y, grok, screenreader, accessibility'
 canonical_url: null
-id: null
-date: ''
+id: 3322543
+date: '2026-03-07T12:52:38Z'
 ---
 
 *7 March 2026* — **PageLive Project**
