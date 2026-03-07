@@ -2,10 +2,10 @@
 title: Screen Reader Experience Analysis on Gemini
 published: true
 description: Screen reader experience manual analysis on Gemini
-tags: PageLive, a11y, gemini, screenreader, accessibility
+tags: 'PageLive, a11y, gemini, screenreader, accessibility'
 canonical_url: null
-id: null
-date: ''
+id: 3322944
+date: '2026-03-07T13:29:21Z'
 ---
 
 *7 March 2026* — **PageLive Project**
