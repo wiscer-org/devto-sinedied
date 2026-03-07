@@ -79,7 +79,7 @@ The absence of shortcuts does not prevent these actions. However, the cumulative
 
 ## 4. Further Reading
 
-This article is part of the PageLive project's documentation for Grok. A companion article, [Screen Reader Experience Mitigation on Grok](#), describes how PageLive addresses the barriers identified above. For a full list of keyboard shortcuts and features PageLive provides for Grok, see the [PageLive for Grok documentation](https://wiscer.org/pagelive/grok).
+This article is part of the PageLive project's documentation for Grok. A companion article, [Screen Reader Experience Mitigation on Grok](https://dev.to/wiscer/screen-reader-experience-mitigation-on-grok-35j4), describes how PageLive addresses the barriers identified above. For a full list of keyboard shortcuts and features PageLive provides for Grok, see the [PageLive for Grok documentation](https://wiscer.org/pagelive/grok).
 
 ---
 
