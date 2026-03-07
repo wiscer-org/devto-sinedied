@@ -89,7 +89,7 @@ The absence of shortcuts does not prevent these actions. However, the cumulative
 
 ## 4. Further Reading
 
-This article is part of the PageLive project's documentation for Gemini. A companion article, [Screen Reader Experience Mitigation on Gemini](#), describes how PageLive addresses the barriers identified above. For a full list of keyboard shortcuts and features PageLive provides for Gemini, see the [PageLive for Gemini documentation](https://wiscer.org/pagelive/gemini).
+This article is part of the PageLive project's documentation for Gemini. A companion article, [Screen Reader Experience Mitigation on Gemini](https://dev.to/wiscer/screen-reader-experience-mitigation-on-gemini-2all), describes how PageLive addresses the barriers identified above. For a full list of keyboard shortcuts and features PageLive provides for Gemini, see the [PageLive for Gemini documentation](https://wiscer.org/pagelive/gemini).
 
 ---
 
