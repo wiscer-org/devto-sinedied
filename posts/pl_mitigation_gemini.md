@@ -1,5 +1,5 @@
 ---
-title: Screen Reader Experience Mitigation on Gemini
+title: Screen Reader Mitigation Analysis on Gemini
 published: true
 description: How PageLive addresses screen reader barriers on Gemini
 tags: 'PageLive, a11y, gemini, screenreader, accessibility'

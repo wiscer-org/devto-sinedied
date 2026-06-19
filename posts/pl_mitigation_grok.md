@@ -1,5 +1,5 @@
 ---
-title: Screen Reader Experience Mitigation on Grok
+title: Screen Reader Mitigation Analysis on Grok
 published: true
 description: How PageLive addresses screen reader barriers on Grok
 tags: 'PageLive, a11y, grok, screenreader, accessibility'
