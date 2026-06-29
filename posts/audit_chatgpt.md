@@ -16,6 +16,8 @@ direct interaction using screen reader assistive technology.
 
 <!-- and evaluated against WCAG 2.1 AA criteria. -->
 
+---
+
 ## Test Environment
 
 All testing sessions are conducted manually using the following environment.
@@ -26,6 +28,8 @@ Versions reflect the latest available at the time of each audit session date.
 | **Screen Reader**    | NVDA (latest version as of audit date)          |
 | **Browser**          | Google Chrome (latest version as of audit date) |
 | **Operating System** | Windows 11 (latest version as of audit date)    |
+
+---
 
 ## Issue Classification
 
