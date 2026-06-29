@@ -1,10 +1,12 @@
 ---
 title: ChatGPT Manual Screen Reader Audit
-tags: 'accessibility, a11y, nvda, pagelive'
+tags: accessibility, a11y, nvda, pagelive
 published: false
 description: ChatGPT manual screen ready audit using NVDA on Windows 11.
 id: 4016730
 ---
+
+## About
 
 **Target URL:** https://chatgpt.com
 
@@ -13,8 +15,6 @@ conducted on [ChatGPT](https://chatgpt.com). Issues are identified through
 direct interaction using screen reader assistive technology.
 
 <!-- and evaluated against WCAG 2.1 AA criteria. -->
-
----
 
 ## Test Environment
 
@@ -26,8 +26,6 @@ Versions reflect the latest available at the time of each audit session date.
 | **Screen Reader**    | NVDA (latest version as of audit date)          |
 | **Browser**          | Google Chrome (latest version as of audit date) |
 | **Operating System** | Windows 11 (latest version as of audit date)    |
-
----
 
 ## Issue Classification
 
@@ -44,7 +42,7 @@ Versions reflect the latest available at the time of each audit session date.
 
 ### 2026-06-29
 
-#### Issue 1
+#### Unaccessible Command Palette Options
 
 - **Classification:** Blocker / Critical
 
