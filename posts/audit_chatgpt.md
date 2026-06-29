@@ -1,6 +1,6 @@
 ---
 title: ChatGPT Manual Screen Reader Audit
-tags: accessibility, a11y, nvda, pagelive
+tags: 'accessibility, a11y, nvda, pagelive'
 published: false
 description: ChatGPT manual screen ready audit using NVDA on Windows 11.
 id: 4016730
