@@ -77,9 +77,9 @@ Versions reflect the latest available at the time of each audit session date.
   screen reader testing.
 - **Recommendation:** Describe the fix or remediation approach.
 
----
+-->
 
- -->
+---
 
 ## Resolution via PageLive
 
