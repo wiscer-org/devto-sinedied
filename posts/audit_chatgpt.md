@@ -131,7 +131,8 @@ Versions reflect the latest available at the time of each audit session date.
 Some of the issues identified in this audit are not straightforward to resolve
 at the source — either because they require changes to the target application
 itself, or because a native fix is unlikely to be prioritised. For those cases,
-potential workaround approaches are explored in separate articles, and
+potential workaround approaches are explored in
+[PageLive for ChatGPT](https://wiscer.org/pagelive/chatgpt/) articles, and
 implementations are shipped as part of the
 **[PageLive Chrome extension](https://wiscer.org/pagelive)**, which bridges
 missing accessibility features for screen reader users in selected web
