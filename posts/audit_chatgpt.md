@@ -4,6 +4,7 @@ tags: 'accessibility, a11y, nvda, pagelive'
 published: true
 description: ChatGPT manual screen ready audit using NVDA on Windows 11.
 id: 4016730
+date: '2026-07-01T13:16:41Z'
 ---
 
 ## About
