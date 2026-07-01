@@ -89,9 +89,28 @@ Versions reflect the latest available at the time of each audit session date.
 #### Missing Announcement of the Focused Chat Title in the Search Chats Dialog
 
 - **Classification:** Friction / Low
-- **Description:** The Search Chats dialog opens with `Ctrl` + `/`, and focus is placed in the search input at the top. Below it, a list of chats is displayed, showing either all chats or the results of the current search. While focus remains in the search field, users can move through the list with the Up and Down Arrow keys to select a chat without moving focus away.
-- **Issue:** As the highlighted chat changes, the screen reader announces the contents of the search input rather than the currently highlighted chat title. This makes it harder for users to confirm which chat is selected before opening it.
-- **Recommendation:** Announce the highlighted chat title when the selection changes, for example by temporarily exposing it in an element with an `aria-live` region.
+- **Description:** The Search Chats dialog opens with `Ctrl` + `/`, and focus is
+  placed in the search input at the top. Below it, a list of chats is displayed,
+  showing either all chats or the results of the current search. While focus
+  remains in the search field, users can move through the list with the Up and
+  Down Arrow keys to select a chat without moving focus away.
+- **Issue:** As the highlighted chat changes, the screen reader announces the
+  contents of the search input rather than the currently highlighted chat title.
+  This makes it harder for users to confirm which chat is selected before
+  opening it.
+- **Recommendation:** Announce the highlighted chat title when the selection
+  changes, for example by temporarily exposing it in an element with an
+  `aria-live` region.
+
+#### Missing Notification When a Dialog Closes
+
+- **Classification:** Friction / Low
+- **Description:** Dialogs such as the Search Chats and Keyboard Shortcuts
+  dialogs can be closed by pressing the `Escape` key.
+- **Issue:** Some users may not be aware that the dialog has closed, which can
+  make the interaction feel abrupt or confusing.
+- **Suggestion:** Announce the dialog closing in a live region, for example with
+  a screen-reader-only element using `aria-live`.
 
 #### Missing Hint to Close Menu in Pop Up Menus
 
